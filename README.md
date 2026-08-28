@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello! 👋
+- I am Xen, my actual name is Eric; on GitHub, I am a teen who writes scripts for you when I have an issue on my own devices that I think you would experience.
 <!--
 **Xen1123/Xen1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
