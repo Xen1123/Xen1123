@@ -8,7 +8,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🏆 Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Xen1123&theme=darkhub&no-frame=true&margin-w=10)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?user=Xen1123&theme=darkhub&no-frame=true&margin-w=10)
 
 ## What do I do?
 - I spend most of my time on here building scripts that automate workflows. This is typically including ADB & Fastboot, cleaning, organizing, installing, etc. I mostly use Python in my work.
