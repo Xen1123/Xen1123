@@ -9,3 +9,9 @@
 
 ## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Xen1123&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+## What do I do?
+- I spend most of my time on here building scripts that automate workflows. This is typically including ADB & Fastboot, cleaning, organizing, installing, etc. I mostly use Python in my work.
+
+## Streaks ⭐
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Xen1123&theme=github-dark)](https://git.io/streak-stats)
