@@ -1,4 +1,4 @@
-## Hello! 👋
+## There Is No Limit To Your Own Potential, Don't Ever Stop.
 - on GitHub, I am a 14 year old who writes scripts when I want something to be done better. I make them here so that you can use them too!
 
 ## 💬 Socials:
